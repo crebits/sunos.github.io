@@ -1,4 +1,8 @@
-module.exports = {
+module.exports = { 
+  모드 : 'spa', 
+  라우터 : { 
+    기본 : '/ nuxt-gh-pages /' 
+  }, 
   /*
   ** Headers of the page
   */
